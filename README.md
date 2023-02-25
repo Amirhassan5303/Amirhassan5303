@@ -1,10 +1,7 @@
-### Hi there 👋, I am Amirhassan!
-https://img.shields.io/twitter/follow/@Kaveh7697?style=social
+### Hi there 👋, My name is AmirHassan!
+![Twitter Follow](https://img.shields.io/twitter/follow/Amirhassan5303?label=AmirHassan&style=social)
 
-<!--
-**Amirhassan5303/Amirhassan5303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Speak with me about:
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width=50 height=50> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django logo" width=60 height=60> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git logo" width=63 height=63> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width=45
+height=45> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width=45 height=45>
