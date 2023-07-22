@@ -17,4 +17,3 @@ height=45/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width=45 height=45 />
 <p><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git logo" width=70 height=70/></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Amirhassan5303?label=Follow%20AmirHassan&style=social)](https://twitter.com/Amirhassan5303)
