@@ -1,14 +1,9 @@
 ### Hi 👋
-### Welcome to my github page!
 
-<h4>I'm AmirHassan. an aspiring programmer and someone who love coding!</h4>
+<h4>I'm AmirHassan!</h4>
 
-I'm learning python and Javascript for web developement.
-I love to contribute in open source project.
-
-
-- 🔭 I’m currently working on improve my skills in python and problem solving.
-- 🌱 I’m currently learning Web Developement with React Framework, tools like Git and Linux.
+<p>Ethereum–Solana Enthusiast!</p>
+<p>Blockchain and nothing else!</p>
 
 
 ### My Skills:
