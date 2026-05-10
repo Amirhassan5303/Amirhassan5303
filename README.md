@@ -1,9 +1,28 @@
-### Hi 👋
+# Hi, I'm a Web Developer 👋
 
-<h4>I'm AmirHassan!</h4>
+I’m a motivated web developer with experience in building websites and web applications using modern web technologies.
 
-<p>Ethereum–Solana Enthusiast!</p>
-<p>Blockchain and nothing else!</p>
+I work with **HTML**, **CSS**, **JavaScript**, **Python**, and **Django**, and I’m currently learning **React** and **Next.js** to improve my frontend development skills.
+
+I enjoy creating clean, responsive, and functional projects, and I’m always looking for new opportunities to learn, grow, and build better applications.
+
+## 🛠️ Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Django
+
+## 🌱 Currently Learning
+
+- React
+- Next.js
+
+## 🚀 Goals
+
+My goal is to become a better full-stack developer and build useful, high-quality web applications.
+
 
 
 ### My Skills:
